@@ -1,0 +1,15 @@
+{
+  "name": "QrCodebarcode",
+  "version": "1.0.0",
+  "description": "qr and barcode detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suren",
+  "license": "ISC",
+  "dependencies": {
+    "jpeg-js": "^0.2.0",
+    "jsqr": "^0.2.2"
+  }
+}
